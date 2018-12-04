@@ -51,7 +51,8 @@ Mobile social coordination app that displays nearby businesses using the Yelp! A
 
 **SKILLS &amp; TOOLS**
 
-Javascript ES6, React, React Native, Redux, D3, jQuery, HTML5, CSS, Sass, Node, Express, MongoDB, Mongoose, Mocha, Jest, Enzyme, Supertest, Atom, Git, Heroku, mLab, Xcode, Firebase, Material UI, Ant D, Bootstrap, Photoshop, Illustrator, Figma, Sketch, Draw.io
+Javascript ES6, React, React Native, Redux, D3, jQuery, HTML5, CSS, Sass, Node, Express, MongoDB, Mongoose, Mocha, Supertest, Jest, Enzyme, Xcode, Git, Heroku, mLab, Firebase, Material UI, Ant D, Atom, VS Code, Jira, Photoshop, Illustrator, Figma, Sketch, Draw.io
+
 
 ---
 
