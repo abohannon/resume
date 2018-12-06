@@ -7,6 +7,12 @@ github.com/abohannon | adambohannon.me
 
 ---
 
+**SKILLS &amp; TOOLS**
+
+Javascript ES6, React, Redux, Node, MongoDB, React Native, Webpack, HTML5, CSS, Sass, jQuery, Jest, Enzyme, Git, Heroku, Firebase, Material UI, Ant D, Atom, VS Code, Jira, Adobe Creative Suite, Figma, Sketch
+
+---
+
 **PROJECTS**
 
 **RallyWith.Me**
@@ -46,13 +52,6 @@ Polling app that allows users to create custom polls, share them with friends, a
 Mobile social coordination app that displays nearby businesses using the Yelp! API and allows users to RSVP and see other users who have done the same. Built using React Native, Redux, and Firebase. Location data retrieved using the Location API and routing managed by React Native Router Flux.
 
 [https://github.com/abohannon/socialite](https://github.com/abohannon/socialite)
-
----
-
-**SKILLS &amp; TOOLS**
-
-Javascript ES6, React, React Native, Redux, D3, jQuery, HTML5, CSS, Sass, Node, Express, MongoDB, Mongoose, Mocha, Supertest, Jest, Enzyme, Xcode, Git, Heroku, mLab, Firebase, Material UI, Ant D, Atom, VS Code, Jira, Photoshop, Illustrator, Figma, Sketch, Draw.io
-
 
 ---
 
@@ -120,4 +119,5 @@ Javascript ES6, React, React Native, Redux, D3, jQuery, HTML5, CSS, Sass, Node, 
 **Kansas State University** | _Magna Cum Laude_
 
 B.A. Cultural Anthropology, B.S. Psychology
+
 Focus: Media Studies and Communications, Human-Computer Interaction, and Digital Ethnography
